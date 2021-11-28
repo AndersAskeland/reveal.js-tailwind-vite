@@ -4,9 +4,9 @@ Template for creating reveal.js presentations with tailwind styling and Vite dev
 ## How to use
 **Clone repository**
 ```
-git clone 
+git clone https://github.com/AndersAskeland/reveal.js-tailwind-vite.git
 ```
-
+*Or use the template on github.*
 **Install dependencies**
 ```
 npm install
