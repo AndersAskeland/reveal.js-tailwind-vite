@@ -13,7 +13,11 @@ npm install
 ```
 
 **Run dev server**
-```npm run dev```
+```
+npm run dev
+```
 
 **Build**
-```npm run build```
+```
+npm run build
+```
