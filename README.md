@@ -1,5 +1,5 @@
-# reveal.js-tailwind-vite
-Template for creating reveal.js presentations with tailwind styling and Vite dev server and build commands. Uses viteSingleFile to build to single HTML.
+# Minimal reveal.js template using TailwindCSS and Vite
+A minimal template for creating reveal.js presentations with tailwind styling and Vite dev server and build commands. Uses viteSingleFile to build to single HTML.
 
 ## How to use
 **1. Clone repository**
